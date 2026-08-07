@@ -1,5 +1,9 @@
 # Skill: ventura.awesome — LOOP Skill Engine / Deterministic Replay
 
+![MIT](https://img.shields.io/github/license/chamseddinehiddoud/ventura.awesome)
+![stars](https://img.shields.io/github/stars/chamseddinehiddoud/ventura.awesome)
+![forks](https://img.shields.io/github/forks/chamseddinehiddoud/ventura.awesome)
+
 Skill de curadoria e recomendação de recursos com **execução determinística**:
 explore a necessidade uma vez, compile o índice, replique a recomendação com
 ~zero tokens, regenere quando um recurso envelhecer.
