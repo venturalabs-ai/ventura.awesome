@@ -1,5 +1,9 @@
 # ventura.awesome
 
+![MIT](https://img.shields.io/github/license/chamseddinehiddoud/ventura.awesome)
+![stars](https://img.shields.io/github/stars/chamseddinehiddoud/ventura.awesome)
+![forks](https://img.shields.io/github/forks/chamseddinehiddoud/ventura.awesome)
+
 Versão **Ventura** do clássico *awesome* — curadoria original de recursos
 incríveis para desenvolvimento e carreira, organizada por categoria, com uma
 skill de replay determinístico para achar o recurso certo sem caçada.
