@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "repository_role": "discovery",
+  "autonomy": "curation",
+  "budget_profile": "simple",
+  "context": {"strategy": "semantic", "max_files": 15, "max_chars": 20000},
+  "routing": {"enabled": false, "champion_challenger": false},
+  "validation": {"required": ["curation-health", "autonomy-gate", "security-baseline"]},
+  "security": {"hard_gates": ["delete_repository", "force_push", "change_secrets", "reduce_security", "destructive_deployment", "budget_override", "irreversible_financial_action"]}
+}
